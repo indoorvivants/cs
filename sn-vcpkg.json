@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    "central"
+  ],
+  "dependencies": [
+    "com.indoorvivants.vcpkg:sn-vcpkg_3:latest.release"
+  ]
+}
+
